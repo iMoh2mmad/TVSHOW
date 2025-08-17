@@ -83,7 +83,7 @@
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
     "@types/cheerio": "^0.22.35",
-    "@types/hls.js": "^1.0.4",
+    "@types/hls.js": "^1.5.15",
     "@types/uuid": "^10.0.0",
     "@prisma/client": "^5.20.0"
   }
